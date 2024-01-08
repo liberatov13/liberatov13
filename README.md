@@ -1,8 +1,9 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3B3CA5&height=120&section=header"/>
+
 <h1 align="center">
 	<a href="https://git.io/typing-svg">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F70000&vCenter=true&random=false&width=435&lines=Oi%2C+sou+o+Liberato"/>
+		<img src="https://readme-typing-svg.herokuapp.com?font=Robot+Mono&weight=500&size=22&pause=1000&color=F70000&random=false&width=435&lines=Oi%2C+sou+o+Liberato"/>
 	</a>
-	:man_technologist:
 </h1>
 
 <img height="300" src="assets/dev.gif"/>
@@ -10,6 +11,7 @@
 <h4>
 	Projetos públicos: :pencil:
 </h4>
+
 <ul>
 	<li>
 		<a href="https://github.com/liberatov13/lazuli-web" target="_blank">
