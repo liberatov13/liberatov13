@@ -1,13 +1,14 @@
 <h1 align="center">
-	:man_technologist:
 	<a href="https://git.io/typing-svg">
 		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F70000&vCenter=true&random=false&width=435&lines=Oi%2C+sou+o+Liberato"/>
 	</a>
+	:man_technologist:
 </h1>
-<img src="assets/dev.gif"/>
+
+<img height="300" src="assets/dev.gif"/>
 
 <h4>
-	Projetos públicos:
+	Projetos públicos: :pencil:
 </h4>
 <ul>
 	<li>
