@@ -46,8 +46,8 @@
 
 <div align="center">
 	<a href="https://github.com/liberatov13">
-		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=liberatov13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liberatov13&layout=compact&langs_count=6&theme=tokyonight"/>
+		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=liberatov13&show_icons=true&theme=midnight-purple&hide_border=true&locale=pt-br&include_all_commits=true&count_private=true"/>
+		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liberatov13&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6&locale=pt-br"/>
 	</a>
 </div>
 
