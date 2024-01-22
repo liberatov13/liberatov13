@@ -5,9 +5,30 @@
 <hr color="#aaa">
 
 <div>
-	<h3>
-		:pencil: Projetos públicos:
-	</h3>
+	<h2>
+		Contatos
+	</h2>
+	<a href="mailto:liberatov13@gmail.com" target="_blank">
+		<img alt="Static Badge Gmail" height="40" src="https://img.shields.io/badge/E--mail-fff?style=plastic&&logo=gmail&logoColor=EA4335">
+	</a>
+	<a href="https://github.com/liberatov13" target="_blank">
+		<img alt="Static Badge GitHub" height="40" src="https://img.shields.io/badge/GitHub-fff?style=plastic&logo=github&logoColor=181717">
+	</a>
+	<a href="https://www.linkedin.com/in/elvisbarros/" target="_blank">
+		<img alt="Static Badge LinkedIn" height="40" src="https://img.shields.io/badge/LinkedIn-fff?style=plastic&logo=linkedin&logoColor=0A66C2">
+	</a>
+	<a href="https://t.me/liberatov13" target="_blank">
+		<img alt="Static Badge Telegram" height="40" src="https://img.shields.io/badge/Telegram-fff?style=plastic&logo=telegram&logoColor=26A5E4">
+	</a>
+	<a href="https://discord.com/" target="_blank">
+		<img alt="Static Badge Discord" height="40" src="https://img.shields.io/badge/liberatov13-fff?style=plastic&logo=discord&logoColor=5865F2">
+	</a>
+</div>
+
+<div>
+	<h2>
+		:pencil: Projetos públicos
+	</h2>
 	<div style="display: inline-block;">
 		<img height="300" src="assets/dev.gif"/>
 	</div>
