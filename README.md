@@ -41,7 +41,7 @@
 </div>
 
 <h2>
-	Status do Github
+	:octocat: Status do Github :octocat:
 </h2>
 
 <div align="center">
