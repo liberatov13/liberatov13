@@ -8,7 +8,7 @@
 	</h2>
 	<table>
 		<td>
-			<img height="300" style="float:right;" src="assets/dev.gif"/>
+			<img height="300" src="assets/dev.gif"/>
 		</td>
 		<td>
 			<ul>
