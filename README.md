@@ -1,6 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3B3CA5&height=120&section=header"/>
-
-<img src="./assets/github-header-image.png" width=100%>
+<img src="./assets/github-header-image-purple.png" width=100%>
 
 <div align="center">
 	<h2>
